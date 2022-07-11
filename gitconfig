@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = julicbonardi@hotmail.com
+	name = Juliana Bonardi
